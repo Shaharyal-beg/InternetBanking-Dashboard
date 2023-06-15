@@ -132,7 +132,8 @@
     padding:2vh 2vw;
 }
 .balance{
-    background-color: #2B2B2B;
+    /* background-color: #2B2B2B; */
+    background-color: #1F332B;
     color: #F5F5F5;
 
 }
@@ -255,7 +256,8 @@
 .div1{
     width: 16vw;
     height: 32vh;
-    background-color: #6FFC2D;
+    /* background-color: #6FFC2D; */
+    background-color: #0A150F;
     border-radius: 50%;
     border: 4px solid white;
     text-align: center;
@@ -265,7 +267,8 @@
     width: 12vw;
     height: 8vh;
     margin: 12vh 0 0 2.4vw;
-    color: #2B2B2B;
+    /* color: #2B2B2B; */
+    color: white;
     font-size: 14px;
     font-weight: 600;
 }
@@ -288,7 +291,8 @@ font-size: 14px;
 .div3{
     width: 6vw;
     height: 12vh;
-    background-color: #2B2B2B;
+    /* background-color: #2B2B2B; */
+    background-color: #1F332B;
     border-radius: 50% ;
     border: 4px solid white;
     margin: -15vh 0 0 11vw;
@@ -318,15 +322,17 @@ font-size: 14px;
     width: 15vw;
     height: 1vh;
     margin-left: 7vw;
-    background-color: #6FFC2D;
-    opacity: 0.3;
+    /* background-color: #6FFC2D; */
+    background-color: #0A150F;
+    opacity: 0.5;
     border-radius: 5px;
     margin-top: 1vh;
 }
 .this-month{
     width: 10vw;
     height: 1vh;
-    background-color: #6FFC2D;
+    /* background-color: #6FFC2D; */
+    background-color: #0A150F;
     border-radius: 5px;
     margin: -1vh 0 0 7vw;
 }
@@ -334,15 +340,17 @@ font-size: 14px;
     width: 15vw;
     height: 1vh;
     margin-left: 7vw;
-    background-color: #2B2B2B;
+    /* background-color: #2B2B2B; */
+    background-color: #1F332B;
     border-radius: 5px;
     margin-top: 1vh;
-    opacity: 0.3;
+    opacity: 0.5;
 }
 .last-month{
     width: 12vw;
     height: 1vh;
-    background-color: #2B2B2B;
+    /* background-color: #2B2B2B; */
+    background-color: #1F332B;
     margin: -1vh 0 0 7vw;
     border-radius: 5px;
 }

@@ -2,7 +2,8 @@
     width: 17vw;
     height: 100vh;
     border: none;
-    background-color: #2B2B2B;
+    /* background-color: #2B2B2B; */
+    background-color: #0A150F;
     float: left;
     color: white;
     position: fixed;
@@ -45,7 +46,8 @@
 .optionlist-1 ul li{
     
     padding: 1vw ;
-    border: 1px solid #2B2B2B;
+    /* border: 1px solid #2B2B2B; */
+    border: 1px solid #0A150F;
     margin-bottom: 1vh ;
     padding-bottom: 1.5vh;
     display: flex;
@@ -58,8 +60,10 @@
     margin-bottom: 0.5vh;
 }
 .optionlist-1 ul  :hover {
-    background-color: #808080;
-    color: white;
+    /* background-color: #808080; */
+    background-color: #97F675;
+    /* color: white; */
+    color: #0A150F;
     border-radius: 8px;
 }
 

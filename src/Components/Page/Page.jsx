@@ -230,8 +230,8 @@ const Page =()=>{
           </div>
         <BarChart width={500} height={230} data={data} className='chart-container'>
         <Bar dataKey="uv" fill="red"/>
-        <Bar dataKey="amt" stackId="a" fill="green" />
-        <Bar dataKey="pv" fill="orange"/>
+        <Bar dataKey="amt" stackId="a" fill="black" />
+        <Bar dataKey="pv" fill="green"/>
         </BarChart>
         <div className='months'>
         <p>
