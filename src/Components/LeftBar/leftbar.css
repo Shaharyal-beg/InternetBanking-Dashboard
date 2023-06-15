@@ -1,0 +1,91 @@
+.Leftbar{
+    width: 17vw;
+    height: 100vh;
+    border: none;
+    background-color: #2B2B2B;
+    float: left;
+    color: white;
+    position: fixed;
+}
+.logo{
+    width: 17vw;
+    height: 10vh;
+    border: none;
+    padding-top: 4vh ;
+   
+}
+.logo img{
+    width: 12vw;
+    height: 9vh;
+    margin: 0.5vh 0 0 2vw;
+   
+}
+.main-logo{
+    width: 7vw;
+    height: 4vh;
+
+}
+.optionlist-1{
+    width: 17vw;
+    height: 60vh;
+    padding: 0 0 0 1vw;
+    color: #808080;
+    
+}
+.optionlist-1 h4{
+    font-size: 11px;
+    font-weight: 400;
+}
+.optionlist-1 ul{
+    width: 15vw;
+    height: 52vh;
+    margin: 2vh 0 0 0vw;
+    list-style-type: none;
+}
+.optionlist-1 ul li{
+    
+    padding: 1vw ;
+    border: 1px solid #2B2B2B;
+    margin-bottom: 1vh ;
+    padding-bottom: 1.5vh;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: 400;
+}
+.xyz{
+    margin-bottom: 0.5vh;
+}
+.optionlist-1 ul  :hover {
+    background-color: #808080;
+    color: white;
+    border-radius: 8px;
+}
+
+.noti{
+    border-radius: 10px;
+    padding: 3px;
+    background-color: red;
+    color: white;
+    margin-left: 1.5vw; 
+}
+.user-info{
+    width: 15vw;
+    height: 12vh;
+    margin: 12vh 0 0 1vw;
+    display: flex;
+}
+.user-info img{
+    width: 3.5vw;
+    height: 7vh;
+    border-radius: 40px;
+    margin: 1vh;
+    float: left;
+    border: 2px solid white;
+}
+.name-job{
+    width: 9vw;
+    height: 8vh;
+    margin-top: 2vh;
+}
